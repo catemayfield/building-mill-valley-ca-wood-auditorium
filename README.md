@@ -1,2 +1,2 @@
-# building-mill-valley-ca-wood-auditorium
+# Wood Auditorium
 Now referred as Gus Gym
