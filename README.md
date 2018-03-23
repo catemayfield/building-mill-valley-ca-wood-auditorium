@@ -1,2 +1,4 @@
 # Wood Auditorium
-Now referred as Gus Gym
+Now referred to as "Gus' Gym"
+
+
