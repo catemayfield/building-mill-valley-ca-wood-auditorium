@@ -1,30 +1,21 @@
 # Wood Auditorium
 Now referred to as "Gus' Gym"
-[ADDRESS HERE], Mill Valley, CA 94941
+700 Miller, Mill Valley, CA 94941
 
 ## Building History
-The Throckmorton was built in 1915 (originally called the “Hub Theatre”) for showing silent films. It closed in 1929 with sound films having been invented and played at the newly opened Sequoia Theater. In 1952, it was bought by The Odd Fellows Temple, and in 1976, it became a movie theater again. This is where the first of the Mill Valley Film Festivals began. As of 2017, it is used as a theater for live performances.
+Tam High was opened in 1908, at the time only 64 students attended and they were tuaght by a grand total of three teachers.  Wood auditorium was built by students later in 1919 due to expanding need for athletic facilities.  It was later named after George Gustafason, who coached football, swimming, and tennis for 37 years at Tam.  In 1972 the famous film "American Graffiti' was filmed in the gym.  During the 1990's and 2000's there was a lot rennovations done to the gym.  The four towers were removed as well as a lot of the large windown on the sides.     
 
-"This building was called the Hub Theatre when it was built in 1915 as a movie theater showing silent films. Musical accompaniment was in the capable hands of Hattie Thompson at an electrically powered organ. Admission to a Saturday Matinee cost 5 cents. The showing included a Wild West Serial." Source: [Mill Valley Historical Society Vignette](https://www.mvhistory.org/vignette-142-throckmorton/)
-
-- Built: 1915
-- Replaced: this building was remodeled but never replaced
-- Architect: tbd
-
-## SketchUp Model
-- Model Creator: Catherine Foy, Research and Writing: Amelia Sharpe
-- Model completed: December, 2017
+- Model Creators: Cole Ford and Marshall Sekula
+- Model completed: In a bit
 - Modeled in SketchUp 2017
 
-![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theatre/blob/master/hub-theatre-1920.jpg)
-![1920 photo of Hub Theatre](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theater/blob/master/hubtheatre-front.jpg)
+![SketchUp model](doing it)
+![1920 Photo of Wood Auditorium](https://www.mvhistory.org/tamalpais-high-school)
 
 
 ### Online references:
-- [Mill Valley Historical Society Vignette](https://www.mvhistory.org/vignette-142-throckmorton/)
-- [Throckmorton Theatre website](https://throckmortontheatre.org/)
-- [Mill Valley Historical Review, Spring 1984](http://www.millvalleylibrary.net/historyroom/collections/archive/files/mvhs1984spring-reduce_910d348bce.pdf)
-
+-[Tam High] https://www.tamdistrict.org/domain/409
+-[The Tam News] http://thetamnews.org/lifestyles/tamalpais-high-school-an-architectural-history/
 ## TimeWalk Images
 ![TimeWalk Unity Model](tbd)
 
