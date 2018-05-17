@@ -14,6 +14,6 @@ Tam High was opened in 1908, at the time only 64 students attended and they were
 
 
 ### Online references:
-- [Tam High] https://www.tamdistrict.org/domain/409
-- [The Tam News] http://thetamnews.org/lifestyles/tamalpais-high-school-an-architectural-history/
+- [Tam High website](https://www.tamdistrict.org/domain/409)
+- [The Tam News](http://thetamnews.org/lifestyles/tamalpais-high-school-an-architectural-history/)
 - [Mill Valley Historical Society - Tamalpais High School](https://www.mvhistory.org/tamalpais-high-school/)
